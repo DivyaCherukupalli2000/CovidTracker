@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "564807365594",
+    "firebase_url": "https://covidtracker-f2fb1-default-rtdb.firebaseio.com",
+    "project_id": "covidtracker-f2fb1",
+    "storage_bucket": "covidtracker-f2fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564807365594:android:a2afda147032b16b66c6e3",
+        "android_client_info": {
+          "package_name": "com.example.covidtrackertwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564807365594-f0ft3jcftu7dce1g3p8vcbsk47sudu1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBHkV2WQ0vlK11kZ-ebt0Zh3Q_14i1bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564807365594-f0ft3jcftu7dce1g3p8vcbsk47sudu1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
